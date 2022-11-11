@@ -1,1 +1,3 @@
-# JS-tutorial
+# JS-tutorial\
+
+This is just a simple JavaScript project that I created while learning...
